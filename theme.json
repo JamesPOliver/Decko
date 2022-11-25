@@ -1,0 +1,11 @@
+{
+    "name": "Decko",
+    "author": "JamesPOliver",
+    "target": "System-Wide",
+    "manifest_version": 4,
+    "description": "A complete overhaul of the Steam Deck UI to my preferences. If anyone else likes it, they are welcome to use it.",
+    "version": "v0.0",
+    "inject": {
+      "shared.css": ["SP"]
+    }
+  } 
