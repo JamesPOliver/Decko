@@ -1,0 +1,16 @@
+:root {
+    --main-colour: #000;
+}
+/*
+Home Page
+*/
+.gamepadhomerecentgames_RecentGamesBackground_1SRox {
+    background: var(--main-colour);
+}
+.steamdeckcompatfilter_CompatFilterDialog_21qvB {
+    background: var(--main-color);
+}
+.allcollections_Collection_3IWn- {
+    background: var(--main-color);
+}
+  
